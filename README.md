@@ -24,7 +24,7 @@ Java, Cucumber, Selenium Webdriver, JUnit, Extent Report
 - Test Report :         \reports
 
 ## Pre-Steps
-- If you want to update URl and Credentials, please open config.properties from Web Config and update it.
+- If you want to update URL and Credentials, please open config.properties from Web Config and update it.
 
 ## Steps
 - Download and Extract this project to your local or git clone https://github.com/aravind12c/happeotestframework.git
