@@ -38,3 +38,9 @@ Below are the points considered while creating the framework
 - Framework - Cucumber(For Test approach), Selenium Driver(For UI Automation), JUnit(Used some of its libraries)
 - Language - Java
 - Report - Extent
+
+## Future Implementation/Improvements
+- Update the Framework to run in other browsers like Firefox, Opera, Edge, Safari
+- Implement docker containerization, so that we can run in remote containers, which will save time and accident interruptions
+- Implement selenoid or any other paid cloud platforms to do Compatibility testing.
+- Improve the framework to test API Scenarios.
