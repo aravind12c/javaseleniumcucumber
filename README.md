@@ -5,7 +5,7 @@
 Java, Cucumber, Selenium Webdriver, JUnit, Extent Report
 
 ## Prerequisites 
-- Use right Chromedriver as per your chrome version (src/main/resources -> driver -> chromedriver.exe)
+- Use right Chromedriver as per your chrome version (src/main/resources -> driver -> chromedriver.exe) {If you are using Mac/Linux, please update the Chromedriver accordingly.}
 - Java 8 and above 
 - Any IDE 
 - For Cucumber's actual flavour, install a plugin for cucumber in IDE and convert project into cucumber project
