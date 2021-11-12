@@ -1,4 +1,4 @@
-# Happeo Test Framework 
+# Practice Framework
 
 
 ## Tech stack Used
